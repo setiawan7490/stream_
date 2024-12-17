@@ -16,3 +16,7 @@
 
         -Await for cara kerjanya adalah menunggu data yang datang dari stream secara asinkron dan memprosesnya satu per satu.
 
+### Soal 6
+    -
+
+![ss](assets/img/3.png)
