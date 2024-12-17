@@ -6,5 +6,5 @@ Soal 3
     -maksudnya adalah untuk mendelegasikan semua elemen dari generator lain kedalam generator saat ini
 
 Soal 4
-    !(<assets/img/1.png>)
-    !(<assets/img/2.png>)
+    ![](assets/img/1.png)
+    ![](assets/img/2.png)
